@@ -1,8 +1,8 @@
 # Workshop RAG · SI3003 Inteligencia Artificial
 
-- **Nombre:** …
-- **Código estudiantil:** …
-- **Usuario de GitHub:** …
+- **Nombre:** Mariana Patiño Arboleda
+- **Código estudiantil:** 1023523368
+- **Usuario de GitHub:** Mariana-patino
 - **Fecha:** 21 de octubre de 2026
 - **Entrega a:** jipadillab@eafit.edu.co
 
